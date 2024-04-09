@@ -1,4 +1,4 @@
-# Analysis of borrowers' reliabilty
+# Analysis of borrowers' reliability
 
 To research the catering market in Moscow for the further opening of such establishment.  
 
