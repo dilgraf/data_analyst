@@ -1,4 +1,4 @@
-# Analysis of borrowers' reliability
+# Analysis of the catering market
 
 Goal: To research the catering market in Moscow for the further opening of a cafe.  
 
